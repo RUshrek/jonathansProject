@@ -1,0 +1,22 @@
+body {
+	background-color: blue;
+	font-family:sans-serif;
+	color: green;
+	font-size: 60px;
+	text-align: center;
+}
+button {
+	height:125px;
+	width:175px;
+	background-color: red;
+	font-size: 40px;
+}
+input {
+	height:100px;
+	width:150px;
+	background-color: red;
+}
+a {
+	color:blue;
+	font-size: 10px;
+}
