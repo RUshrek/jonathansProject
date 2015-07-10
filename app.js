@@ -1,3 +1,4 @@
-alert("Google has found a virus on this page.");
-// python -m SimpleHTTPServer 8000
+$ (confirm("Sophos Anti-Virus has found a virus on this page.") === true );
+	
 
+// python -m SimpleHTTPServer 8000
